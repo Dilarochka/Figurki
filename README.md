@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>Фигуры Вариант №3 </title>
@@ -210,3 +211,7 @@ renderer.render( scene, camera );
 
 </body>
 </html>
+											
+											
+											
+											
